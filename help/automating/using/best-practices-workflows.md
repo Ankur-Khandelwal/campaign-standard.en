@@ -44,7 +44,7 @@ You can duplicate workflows. In the **[!UICONTROL Marketing Activities]**, hover
 
 ### Number of workflows
 
-By default, we recommend not to run more than 20 active workflows executions simultaneously. After hitting that limit, workflows will be queued in order not to affect performances. Similarly, Adobe recommends you to spread out your workflow exection over time.
+By default, we recommend not to run more than 20 active workflows executions simultaneously. After hitting that limit, workflows will be queued in order not to affect performances. Similarly, Adobe recommends you to spread out your workflow executions over time.
 In specific contexts, you may need to run more than 20 workflows. It does not apply to workflows waiting for a scheduled execution.  If so, you need to check the use cases with a Campaign expert and contact Adobe Customer Care to increase the limit.
 
 ### Frequency
@@ -64,7 +64,7 @@ For more information, refer to [Executing workflows](../../automating/using/abou
 
 ### Time zone
 
-The workflow properties allow you to define a specific time zone that will be used by default in all the its activities. By default, the workflow's time zone is the one defined for the current Campaign operator.
+The workflow properties allow you to define a specific time zone that will be used by default in all its activities. By default, the workflow's time zone is the one defined for the current Campaign operator.
 
 ## Activity{#activity}
 
